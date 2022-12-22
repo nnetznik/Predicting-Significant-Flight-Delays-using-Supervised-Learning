@@ -1,2 +1,5 @@
 # Data sample
 sample.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints
